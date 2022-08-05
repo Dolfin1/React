@@ -1,0 +1,14 @@
+@media (min-width:608px){
+  .b-product{
+    width: calc((100% - 32px)/2);
+  }
+  .b-nav{
+    background: linear-gradient(180deg, #201F2E 50%, rgba(32, 31, 46, 0) 100%);
+  }
+}
+
+@media (min-width:896px){
+  .b-product{
+    width: calc((100% - 64px)/3);
+  }
+}
